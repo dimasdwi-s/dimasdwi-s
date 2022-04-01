@@ -1,5 +1,8 @@
 # Hi there 👋 , I'm Dimas!
-Just an ordinary person who love to learn anything. 
+Just an ordinary person. 
+I love reading, and also millions of people in this planet.
+I love learning, and also millions of people in this planet. 
+So nothing special about me.
 
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
